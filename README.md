@@ -221,10 +221,14 @@ Le fichier `langgraph.json` pointe vers `app/graph.py:graph`.
 ## Technologies
 
 - **LangGraph** `>=0.2` — Orchestration multi-agents avec HITL
+
+
 - **LangChain + Anthropic** — `claude-sonnet-4-20250514`
 - **FastAPI** — API REST avec documentation automatique
 - **MCP** — Serveur d'outils médicaux additionnels
 - **Streamlit** — Interface utilisateur 4 écrans
+![Diagramme LangGraph 1](https://raw.githubusercontent.com/Malaak50/syssteme-multiagents-medical-langgraph/main/langgraph1.png)
+![Diagramme LangGraph 2](https://raw.githubusercontent.com/Malaak50/syssteme-multiagents-medical-langgraph/main/langgraph2.png)
 
 ---
 

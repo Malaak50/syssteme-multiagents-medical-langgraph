@@ -229,6 +229,8 @@ Le fichier `langgraph.json` pointe vers `app/graph.py:graph`.
 - **Streamlit** — Interface utilisateur 4 écrans
 ![Diagramme LangGraph 1](https://raw.githubusercontent.com/Malaak50/syssteme-multiagents-medical-langgraph/main/langgraph1.png)
 ![Diagramme LangGraph 2](https://raw.githubusercontent.com/Malaak50/syssteme-multiagents-medical-langgraph/main/langgraph2.png)
+![alt text](langgraph1.png)!
+[alt text](langgraph1.png)
 
 ---
 
